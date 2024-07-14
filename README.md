@@ -1,5 +1,8 @@
 # L - Systems
 
+![arboles](https://github.com/user-attachments/assets/3505656c-edda-4db1-a995-e772cbac7b17)
+
+
 Programa en **Clojure** utilizando Leiningen que permite generar imágenes fractales, mediante un algoritmo basado en **sistemas-L**, una simulación de **gráficos tortuga** y el formato de imágenes estándar **SVG**. 
 
 ### Gráficos tortuga:
@@ -24,7 +27,7 @@ Un Sistema-L está formado por:
 
 
 ### El Programa:
-Para ejecutar el programa se debe recibir tres parámetros por la línea de comandos (que se recibirán como parámetros en la función -main), de la forma:
+Para ejecutar el programa utilizando Leiningen se deben recibir tres parámetros por la línea de comandos (que se recibirán como parámetros en la función -main), de la forma:
 
 1. El nombre del archivo que contiene la descripción del sistema-L
 2. La cantidad de iteraciones a procesar
